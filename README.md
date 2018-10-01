@@ -14,7 +14,7 @@ We are currently looking for assistance in the following spaces:
 * Do you know about great resources for open access in the humanities?
 * Do you have a story about the need for open access in the humanities?
 
-Get in touch! You can leave a comment on the repo in "issues" or tweet at @little_wow or @lilyrglg
+Get in touch! You can leave a comment on the repo in "issues" or tweet at <a href="https://twitter.com/little_wow">@little_wow</a> or <a href="https://twitter.com/lilyrglg">@lilyrglg</a>
 
 Thanks!
 
