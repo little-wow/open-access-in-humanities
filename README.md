@@ -18,4 +18,4 @@ Get in touch! You can leave a comment on the repo in "issues" or tweet at <a hre
 
 Thanks!
 
-Jennie + Lilian
+Jennie + Lillian
